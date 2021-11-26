@@ -10,3 +10,4 @@ compile
 main
 test
 !main.cpp
+!Template/*
