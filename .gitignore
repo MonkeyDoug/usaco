@@ -1,0 +1,12 @@
+**.ccls-cache
+**.in
+**.out
+**.sh
+**.err
+**.exp
+**.cpp
+**.zip
+compile
+main
+test
+!main.cpp
